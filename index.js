@@ -9,8 +9,8 @@ const figlet = require('figlet')
 const lolcatjs = require('lolcatjs')
 const options = require('./options')
 
-// AUTO UPDATE BY NURUTOMO
-// THX FOR NURUTOMO
+// AUTO UPDATE BY NOVAN
+// THX FOR NOVAN
 // Cache handler and check for file change
 require('./tobz.js')
 nocache('./tobz.js', module => console.log(`'${module}' Updated!`))
